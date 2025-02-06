@@ -1,8 +1,0 @@
-com/example/todospring/controller/TodoController.class
-com/example/todospring/TodoSpringApplication.class
-com/example/todospring/model/Todo.class
-com/example/todospring/service/TodoService.class
-com/example/todospring/mapper/TodoMapperImpl.class
-com/example/todospring/dto/TodoDto.class
-com/example/todospring/repository/TodoRepository.class
-com/example/todospring/mapper/TodoMapper.class
